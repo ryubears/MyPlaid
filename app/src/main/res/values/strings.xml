@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyPlaid</string>
+
+    <string name="home_navigation">Home"</string>
+    <string name="browse_navigation">Browse</string>
+
+    <string name="home_title">Home</string>
+    <string name="browse_title">Browse</string>
+
+    <string name="account_edit_text_hint">Search</string>
+    <string name="home_year_title">1Y</string>
+    <string name="home_month_title">1M</string>
+    <string name="home_week_title">1W</string>
+</resources>
